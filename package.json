@@ -1,0 +1,13 @@
+{
+  "name": "typescript-quick-start",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
